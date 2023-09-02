@@ -1,5 +1,11 @@
 # Threejs
 
+* Find the production code in **dist folder**
+* Find the Raw code in **scr/components/scripts.js**
+
+![Screenshot 2023-09-02 at 1 38 20 PM](https://github.com/mosesmccabe/Threejs/assets/25771787/3a3e4d35-a038-4ff3-a4c5-c7435a36f180)
+
+
 ## concept cover in this project
 
 
